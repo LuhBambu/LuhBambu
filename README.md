@@ -2,7 +2,7 @@
 
 Meu nome é Lucas.
 
-- Eu estudando na [Alura](https://www.alura.com.br)
+- Eu estudo na [Alura](https://www.alura.com.br)
 - Estudando JavaScript
 - Espaço para meus projetos
 
